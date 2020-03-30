@@ -23,11 +23,13 @@ public class Ruffles extends TreeDecorator {
 	}
 
 	@Override
-	public void description(HolidayItem item) {
-		super.description(ruffle);
+	public void description() {
+		System.out.println("Ruffles have been added ");
+
 		
 	}
-	
-	
-	
+
+
+
+
 }

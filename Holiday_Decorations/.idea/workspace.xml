@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="952300b8-a017-4296-8530-627596b4159e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HolidayItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/HolidayItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Holiday_Decorations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LEDS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/LEDS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lights.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/Lights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ornaments.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/Ornaments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ribbons.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/Ribbons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ruffles.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/Ruffles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/Star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/TreeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TreeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday_Decorations/TreeType.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\CSCD349-DesPat-master\HolidayDecRepo\rayBirttney_CSCD349as3\src\Holiday_Decorations\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zp6AXcpnA3ys3KnqifSSM3nSHb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Holiday_Decorations" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TreeTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeTester" />
+      <module name="Holiday_Decorations" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TreeTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="952300b8-a017-4296-8530-627596b4159e" name="Default Changelist" comment="" />
+      <created>1585523544258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585523544258</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1360" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1585541985712">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-1360" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1585541985712" />
+    <state x="-1360" y="0" key="CommitChangelistDialog2" timestamp="1585530411152">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-1360" y="0" key="CommitChangelistDialog2/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1585530411152" />
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1585543678393">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1585543678393" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1585543678393">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1585543678393" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1585543678393">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1585543678393" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1585543678393">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1585543678393" />
+    <state x="-989" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585535450738">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-989" y="432" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1585535450738" />
+    <state x="-516" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1585540068761">
+      <screen x="-1360" y="0" width="1360" height="728" />
+    </state>
+    <state x="-516" y="0" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1360.0.1360.728@-1360.0.1360.728" timestamp="1585540068761" />
+  </component>
+</project>

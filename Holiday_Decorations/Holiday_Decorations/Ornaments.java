@@ -7,7 +7,7 @@ public class Ornaments extends TreeDecorator {
 		super(ornaments);
 		
 	}
-	private HolidayItem ornaments;
+	private Ornaments ornaments;
 	
 	
 	
@@ -17,14 +17,11 @@ public class Ornaments extends TreeDecorator {
 //		return (Ornaments) this.ornaments;
 //	}
 //	 
-	public HolidayItem getOrnament(HolidayItem ornaments) {
+	public HolidayItem getOrnament(Ornaments ornaments) {
 		return this.ornaments = ornaments;
 	}
 
-	@Override
-	public void description(HolidayItem ornaments) {
-	 super.description(ornaments);
-	}
+
 
 	public double silver(HolidayItem silverO) {
 		 return super.treeDecorationItem.cost();
@@ -53,13 +50,13 @@ public class Ornaments extends TreeDecorator {
 	public double cost() {
 		return super.treeDecorationItem.cost();
 	}
-	
 
-	
+	@Override
+	public void description() throws Throwable {
+		System.out.println("Ornaments have been added");
+	}
 
 
-	
-	
 }
 
 	
